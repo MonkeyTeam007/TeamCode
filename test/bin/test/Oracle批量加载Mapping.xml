@@ -1,0 +1,5 @@
+<mapping>
+        <stream_name>COLUMNNAME</stream_name>
+        <field_name>COLUMNNAME</field_name>
+        <date_mask/>
+</mapping>
